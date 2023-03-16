@@ -1,0 +1,9 @@
+# Initial AI Classification of BA docs
+
+```{r, echo=FALSE, warning=FALSE, message=F}
+librarian::shelf(
+  dplyr, jsonlite, listviewer)
+
+d <- read_json("doc_tags.json")
+jsonedit(d)
+```
