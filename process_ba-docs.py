@@ -1,16 +1,15 @@
-
-# initially based on: 
-# - [cstories-app/api: main.py](https://github.com/cstories-app/api/blob/b87eeb5250a05e005473f1f40589a7a04830561a/main.py)
-# - without fastapi part
-# Google Python modules:
+# read all Google Docs in the folder "ba" and apply tags to them
+# output: doc_tags.json
+#
+# install Google Python modules:
 # pip3.10 install --upgrade \
-#       tiktoken \
-#       openai \
-#       python-dotenv \
-#       google-auth \
-#       google-api-python-client \
-#       google-auth-httplib2 \
-#       google-auth-oauthlib
+#   python-dotenv \
+#   google-auth \
+#   google-api-python-client \
+#   google-auth-httplib2 \
+#   google-auth-oauthlib \
+#   openai \
+#   tiktoken
 
 import os
 from datetime import datetime
@@ -79,7 +78,7 @@ def get_txt_tags(txt_part, txt_tags, f_name = None, doc_tags_json = None):
   question_tokens = len(enc.encode(question))
   response_tokens = engine_max_tokens - question_tokens
   #
-  if prompt_tokens < 100:
+  if response_tokens < 100:
     tags = 'TEXT_TOO_LONG'
   else:
     response = openai.Completion.create(
@@ -112,8 +111,7 @@ def get_txt_tags(txt_part, txt_tags, f_name = None, doc_tags_json = None):
   return tags
 
 # loop through all Gdocs in the folder
-# for i in range(0, len(docs)): # i = 0
-for i in range(0, 2): # i = 0  
+for i in range(0, len(docs)): # i = 0
   f_id = docs[i].get('id')
   f_name = docs[i].get('name')
   print(F'File {i}/{len(docs)} "{f_name}" with id "{f_id}"')
@@ -129,15 +127,16 @@ for i in range(0, 2): # i = 0
   txt = fh.getvalue().decode('UTF-8')
   txt_parts = txt.split('\r\n\r\n')
   print(F'File "{f_name}" with {len(txt)} characters has {len(txt_parts)} paragraphs.')
-  for j in range(0, len(txt_parts)): # j = 3
+  for j in range(0, len(txt_parts)): # j = 0
     txt_part = txt_parts[j].strip()
     if len(txt_part) < 10:
       continue
     tags = get_txt_tags(txt_part, txt_tags, f_name, doc_tags_json)
-    print(tags)
+    print(f'{j}/{len(txt_parts)}: {tags}')
 
 # remove last comma from doc_tags_json, add closing bracket "]"
 with open(doc_tags_json, 'rb+') as f:
   f.seek(-10, os.SEEK_END)
   f.truncate()
   f.write("\n]".encode('UTF-8'))
+
