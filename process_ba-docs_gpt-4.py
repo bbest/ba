@@ -13,6 +13,7 @@
 
 import os
 from datetime import datetime
+import time
 import openai
 from dotenv import load_dotenv
 from google.oauth2 import service_account
@@ -28,14 +29,16 @@ import json
 tags_txt         = 'data/tags.txt'
 gdrive_dir_query = "name = 'ba' and mimeType = 'application/vnd.google-apps.folder'"
 doc_tags_json    = 'data/docs_excerpts_tags.json'
+# mdl = {
+#   'id'             : 'gpt-3.5-turbo',
+#   'encoding'       : 'gpt-3.5-turbo',
+#   'max_tokens'     :  4097,
+#   'max_chunk_nchar': round(4097/3) }
 mdl = {
   'id'        : 'gpt-4',
-  #'id'        : 'gpt-3.5-turbo',  # ideally 'gpt-4', but not available yet
   'encoding'  : 'gpt-3.5-turbo',  # ideally 'gpt-4', but not available yet
   'max_tokens':  8192,
   'max_chunk_nchar': round(8192/3) }
-  # 'max_tokens':  4097,
-  # 'max_chunk_nchar': round(4097/3) }
 
 # read tags from tags_txt
 with open(tags_txt, 'r') as f:
@@ -178,11 +181,8 @@ def parse_documents_and_tags(documents, tags):
       response = get_gpt_chat_response(messages)
       excerpts = response.split('|')
       print(f"  chunk {j} len(excerpts): {len(excerpts)}")
-      # if i == 0 and j == 3:
-      #   print('DEBUG: excerpts[0]:', excerpts[0])
       def excerpt_to_text_tags(excerpt): # excerpt = excerpts[0]
         print('\n\n', excerpt, '\n\n')
-        #excerpt = "EXCERPT: Is there other Federal government involvement outside of EERE in any aspect of this project (e.g., funding, permitting, technical assistance, project located on Federally administered land)? Yes:  "
         if excerpt.count('EXCERPT: ') == 1 & excerpt.count('TAGS: ') == 1:
           text = excerpt.split('EXCERPT: ')[1].split('TAGS: ')[0].strip()
           tags = excerpt.split('TAGS: ')[1].strip().split(', ')
