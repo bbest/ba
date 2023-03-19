@@ -1,0 +1,1114 @@
+{
+  "NEPA Nenana 2019": [
+    {
+      "text": "Pursuant to the U.S. Department of Energy\u2019s National Environmental Policy Act (NEPA) implementing regulations (10 C.F.R. Part 1021), the Office of Energy Efficiency and Renewable Energy (EERE) is required to evaluate the potential environmental impact of projects that it is considering for funding. EERE must determine at the earliest possible time whether any proposed project qualifies for a categorical exclusion under 10 C.F.R. \u00a7 1021.410 or will require further environmental review within an environmental assessment or an environmental impact statement.",
+      "tags": [
+        "Receptor.HumanDimensions.EnvironmentalImpactAssessment",
+        "Management.Mitigation",
+        "Management.Monitoring",
+        "Phase.1SiteCharacterizationandAssessment"
+      ]
+    },
+    {
+      "text": "You are required to answer the questions below for the project as a whole, including all work to be performed by the Recipient, its subrecipients and contractors, including any work outside of the United States. You may not limit your responses to work performed by the Recipient only unless instructed to do so by EERE. In completing this questionnaire, you must provide specific information regarding the nature of your proposed project, including information on its size, operations, and the types and quantities of air emissions, wastewater discharges, solid wastes, land disturbances, etc. You should identify the location(s) of the proposed project and describe the activities that would occur at each location.",
+      "tags": [
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.WaterQuality",
+        "Receptor.PhysicalEnvironment.SedimentTransport",
+        "Receptor.Habitat.Benthos",
+        "Receptor.Habitat.Intertidal",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "The proposed project activities include electrical, mechanical, and platform system development along with field testing of a \u201cWater Horse\u201d vertical oscillator designed to harvest energy from turbulent water conditions. Field activities will be performed at AHERC\u2019s Tanana River Test Site in Nenana Alaska during the summers of 2020 and 2021.",
+      "tags": [
+        "Technology.Current",
+        "Technology.Current.Riverine",
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "The location of testing is located in the native village of Nenana Alaska. Its current condition consists of a gravel lot with a conex and ATCO office space along with grid power supplied to the ATCO. The activities conducted at the site will include electrical, mechanical, and platform system development along with field testing of a \u201cWater Horse\u201d.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.2Construction",
+        "Technology.Current.Riverine"
+      ]
+    },
+    {
+      "text": "Nenana Native Council owns the shore side property and a land use agreement is currently in place. Permits for work on the water have been secured from ADF&G, US Army Corps of Engineers. Shoreside activities are permitted with Alaska Department of Natural.",
+      "tags": [
+        "Receptor.HumanDimensions.LegalPolicy",
+        "Management.Compliance"
+      ]
+    },
+    {
+      "text": "Potential hazards are boating or floating platform failures, line failure, and floating river debris. To mitigate these all personnel will wear PPE when on the water and all boats will have secondary motors in the case of engine failure. All lines, gear and other equipment associated with the floating platform will be inspected prior to use and inspected weekly for signs of wear along with cleared of any debris daily.",
+      "tags": [
+        "Consequence.Injury",
+        "Management.Mitigation",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "A boat ramp adjacent to the Test Site and owned by the Nenana Native Council will be prepared using a bulldozer prior to deploying UAF\u2019s barge. At the completion of the barge deployment and retrieval of the barge, the boat ramp will be graded to restore the area to its condition prior to testing.",
+      "tags": [
+        "Phase.2Construction",
+        "Receptor.HumanDimensions",
+        "Management.Mitigation"
+      ]
+    },
+    {
+      "text": "At UAF\u2019s Tanana River Test Site, all assets necessary for testing the prototype Work horse, including preparing the test site for launching of research assets, deploying the Research Debris Diversion Platform, prepping and deploying fisheries equipment for required regulatory monitoring, prepping the instrumentation barge and vessels for transporting personnel from shore to barge are all in place.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.2Construction",
+        "Management.Monitoring",
+        "Receptor.Fish",
+        "Receptor.HumanDimensions"
+      ]
+    },
+    {
+      "text": "Permits from Alaska Department of Fish and Game, Department of Natural Resources, and Army Corps along with a land use permit between UAF and Nenana Native Council have been secured.",
+      "tags": [
+        "Management.Compliance",
+        "Receptor.HumanDimensions.LegalPolicy"
+      ]
+    },
+    {
+      "text": "The estimated material to be used is 50 gal of gasoline to operate generators and motorized equipment such as boats and trucks.",
+      "tags": [
+        "Phase.3OperationsandMaintenance",
+        "Receptor.HumanDimensions.ResourceUse"
+      ]
+    },
+    {
+      "text": "Potential emissions include greenhouse gas emissions from generators, motorized vehicles, and boats.",
+      "tags": [
+        "Phase.3OperationsandMaintenance",
+        "Receptor.HumanDimensions.ClimateChange",
+        "Receptor.PhysicalEnvironment.AirQuality"
+      ]
+    },
+    {
+      "text": "Non-hazardous waste is expected to be limited to garbage and human waste and will be disposed of at state operated transfer sites (garbage). Human waste will be contained within a Porta-potty and disposed of by a licensed contractor.",
+      "tags": [
+        "Management.Mitigation",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.HumanDimensions",
+        "Stressor.PhysicalInteraction.Chemicals"
+      ]
+    },
+    {
+      "text": "Is the proposed project near, or does it involve, any of the following resources? Please indicate below any and all resources that could be affected by any project activities. (See Attachment 1 to the Environmental Questionnaire for resource definitions.)",
+      "tags": [
+        "Receptor.Benthos",
+        "Receptor.Birds",
+        "Receptor.Birds.Seabirds",
+        "Receptor.Birds.Shorebirds",
+        "Receptor.Birds.Waterfowl",
+        "Receptor.EcosystemProcesses",
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Receptor.Fish.PelagicFish",
+        "Receptor.Habitat.Benthos",
+        "Receptor.Habitat.Intertidal",
+        "Receptor.HumanDimensions",
+        "Receptor.HumanDimensions.EnvironmentalImpactAssessment",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.MarineMammals.Pinnipeds",
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.SedimentTransport",
+        "Receptor.PhysicalEnvironment.WaterQuality",
+        "Stressor.HabitatChange"
+      ]
+    },
+    {
+      "text": "Does the proposed project involve any of the following activities or areas of concern? Please indicate below any and all activities or areas of concern that exist in the vicinity of your project, are required for your project, or could affect your project.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Phase.4Decommissioning",
+        "Receptor.Habitat.Benthos",
+        "Receptor.HumanDimensions",
+        "Receptor.PhysicalEnvironment",
+        "Stressor.PhysicalInteraction"
+      ]
+    },
+    {
+      "text": "Would the proposed project have the potential to result in impacts to the surrounding community? Please indicate below all areas of concern that exist in the vicinity of your project, are required for your project, or could affect your project.",
+      "tags": [
+        "Consequence.CommunityChange",
+        "Receptor.HumanDimensions",
+        "Receptor.HumanDimensions.SocialEconomicData",
+        "Receptor.HumanDimensions.VisualImpacts",
+        "Stressor.HabitatChange"
+      ]
+    },
+    {
+      "text": "The water horse will be deployed in the Tanana River, the turbine will occupy the top meter of the waters surface for a week in the summer of 2020 and two weeks in summer 2021. Permits have been secured from ADF&G, USACE and AK DNR.",
+      "tags": [
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.Fish",
+        "Receptor.PhysicalEnvironment",
+        "Technology.Current.Riverine"
+      ]
+    },
+    {
+      "text": "11. Would the proposed project result in a discharge of any type of wastewater, pollutant, or contaminant, including thermal discharges, to a sewer system, stormwater system, soils, retention ponds, or any water resources (e.g., surface water, including lakes, rivers, creeks, and wetlands; and ground water)?",
+      "tags": [
+        "Receptor.PhysicalEnvironment.WaterQuality",
+        "Stressor.PhysicalInteraction.Chemicals"
+      ]
+    },
+    {
+      "text": "12. Would the proposed project have the potential to generate noise impacts to adjacent communities, employees working at the project site, wildlife, and/or sensitive receptors including hospitals, schools, daycare facilities, and elderly housing?",
+      "tags": [
+        "Receptor.HumanDimensions",
+        "Stressor.Noise",
+        "Stressor.Noise.Airborne",
+        "Stressor.Noise.Underwater"
+      ]
+    },
+    {
+      "text": "13. Please provide a detailed description of how the project would be decommissioned, including the disposition of equipment and materials. The demobilization of the Tanana River test site will include removing all testing equipment from the water. Boats, tools, and other testing instruments will be transported back to University of Alaska Fairbanks for cleaning and storage. Large pieces of equipment will be stored on shore at the Tanana River test site. The boat ramp where the barge is launched will be graded using a bulldozer to return it to its original condition.",
+      "tags": [
+        "Phase.4Decommissioning",
+        "Management.DesignFeature",
+        "Receptor.Habitat.Benthos",
+        "Receptor.PhysicalEnvironment.SedimentTransport"
+      ]
+    }
+  ],
+  "AMP Biological Evaluation REV1.02": [
+    {
+      "text": "The purpose of this Biological Evaluation (BE) is to address the effect that the field of testing of the Adaptable Monitoring Package (AMP) and its associated deployment system might have on species listed as endangered or threatened under the Endangered Species Act (ESA) or their designated critical habitat.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.Birds",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Receptor.Reptiles",
+        "Receptor.Habitat.Benthos",
+        "Receptor.Habitat.Intertidal"
+      ]
+    },
+    {
+      "text": "The Northwest National Marine Renewable Energy (NNMREC) is a DOE-funded partnership between OSU and UW with a goal of facilitating the responsible commercialization of marine renewable energy in the United States. In conjunction with other research activities, NNMREC is developing the Pacific Marine Energy Center (PMEC) to enable testing of wave and tidal energy converter device performance and environmental interactions.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.3OperationsandMaintenance",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "A portion of the DOE funding for PMEC will be utilized to develop and test an Adaptable Monitoring Package (AMP) for monitoring environmental interactions (Proposed Action). The AMP consists of a streamlined instrumentation package for studying environmental interactions around wave and tidal energy converters.",
+      "tags": [
+        "Management.Monitoring",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "The AMP is deployed from a surface vessel by a Remotely Operated Vehicle. Because these studies will be conducted with financial support from DOE, the Proposed Action is subject to the provisions of the National Environmental Policy Act (NEPA). However, the Proposed Action may qualify for a NEPA categorical exclusion (CX) under 10 CFR Part 1021, section B5.25 Small Scale Renewable Energy Research and Pilot Projects in Aquatic Environments, provided that it will not affect ESA-listed species or their designated critical habitat.",
+      "tags": [
+        "Management.Compliance",
+        "Management.Monitoring",
+        "Receptor.Birds",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Receptor.Reptiles",
+        "Receptor.Habitat.Benthos",
+        "Receptor.Habitat.Intertidal"
+      ]
+    },
+    {
+      "text": "In-water testing of the AMP would be carried out in two locations: Lake Washington and Admiralty Inlet, as shown in Figure 1. Because work would occur in the aquatic environment it has the potential to impact the following ESA-listed marine species that are known to occur in the area: marbled murrelet, Chinook salmon, chum salmon, steelhead, bull trout, green sturgeon, bocaccio, canary rockfish, yellow rockfish, Pacific eulachon, humpback whales, Southern Resident killer whales, Stellar sea lions and designated critical habitat for several of these ESA-listed species.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.Birds",
+        "Receptor.Birds.Seabirds",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.MarineMammals.Pinnipeds"
+      ]
+    },
+    {
+      "text": "The use of a package like the AMP to enable adaptive monitoring of tidal energy demonstration projects has been discussed with both NMFS and USFWS as part of the permitting and monitoring plan development for the Snohomish PUD/OpenHydro tidal energy demonstration project (Snohomish PUD 2012).",
+      "tags": [
+        "Management.Monitoring",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "This BE addresses DOE\u2019s proposed Action to provide federal funding to the proposed Project in compliance with Section 7(c) of the ESA of 1973, as amended. Section 7 of the ESA assures that, through consultation (or conferencing for proposed species) with NMFS and/or USFWS, federal actions do not jeopardize the continued existence of any threatened, endangered or proposed species, or result in the destruction or adverse modification of critical habitat.",
+      "tags": [
+        "Management.Compliance",
+        "Receptor.HumanDimensions.LegalPolicy"
+      ]
+    },
+    {
+      "text": "The objective of the proposed Project is to test deployment and recovery of the AMP in benign conditions (Lake Washington) and adverse conditions (Admiralty Inlet), to verify its capabilities to support monitoring around wave and tidal current energy projects.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Technology.Wave",
+        "Technology.Current.Tidal",
+        "Management.Monitoring"
+      ]
+    },
+    {
+      "text": "The two proposed project areas associated with Adaptable Monitoring Package (AMP) testing are described in the following subsections. Lake Washington constitutes a benign testing environment (i.e., limited wave and current action), whereas Admiralty Inlet constitutes an adverse testing environment (i.e., moderate wave and current action). The AMP is not intended for deployment or recovery in strong wave or current action, but may operate in these environments.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Technology.Current",
+        "Technology.Wave"
+      ]
+    },
+    {
+      "text": "The AMP and deployment system consists of five major components, as shown in Figure 2, Figure 3, and Figure 4: * The Adaptable Monitoring Package (AMP), a custom-designed, streamlined instrumentation frame supporting environmental monitoring sensors. These sensors require a shore power and data connection and would not be activated during testing. Once docked, the AMP connects to shore power and data via a hybrid electrical-optical wet-mate connector (\u201csocket\u201d on the docking station, \u201cplug\u201d on the AMP).",
+      "tags": [
+        "Management.Monitoring",
+        "Technology.Current",
+        "Technology.Wave"
+      ]
+    },
+    {
+      "text": "AMP testing, whether conducted in a benign (e.g., lake) or adverse (e.g., ocean) environment, proceeds through the following stages:",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.PhysicalEnvironment",
+        "Technology.Current",
+        "Technology.Wave"
+      ]
+    },
+    {
+      "text": "Research vessel deploys docking station to lakebed or seabed via load-bearing release (docking station released once in contact with bottom).",
+      "tags": [
+        "Phase.2Construction",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "AMP and ROV are attached to the launch platform and deployed from research vessel. The system is lowered to the approximate depth of the docking station at a distance of no more than 100 m.",
+      "tags": [
+        "Phase.2Construction",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "ROV is powered up and lifts AMP off launch platform.",
+      "tags": [
+        "Phase.2Construction",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "ROV carrying AMP is piloted to docking station by a human operator on the research vessel.",
+      "tags": [
+        "Phase.2Construction",
+        "Receptor.HumanDimensions",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "The AMP is recovered to the surface via an acoustic release. This would be the process for AMP recovery in an operational scenario and would occur several months after AMP deployment, but will occur shortly after the launch platform is recovered during testing.",
+      "tags": [
+        "Phase.3OperationsandMaintenance",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "The docking station is recovered to the surface via an acoustic release. In an operational scenario, the docking station would remain attached to the wave or tidal converter for the converter\u2019s primary maintenance cycle (e.g., 5 years).",
+      "tags": [
+        "Phase.3OperationsandMaintenance",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Testing in a Benign Environment (Lake Washington)",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.PhysicalEnvironment.WaterQuality"
+      ]
+    },
+    {
+      "text": "For more advanced testing, AMP deployments will be practiced in Lake Washington, a fresh water body to the east of Seattle, Washington, at the location shown in Figure 6 (N 47\u00b0 39.5', W 122\u00b0 15'). Testing will take place during daylight hours on no more than six occasions between April 2014 and June 2015.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.PhysicalEnvironment.WaterQuality"
+      ]
+    },
+    {
+      "text": "Testing in an Adverse Environment (Admiralty Inlet)",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.PhysicalEnvironment.WaterQuality"
+      ]
+    },
+    {
+      "text": "The Project area for testing in an adverse environment is Admiralty Inlet, a body of salt water at the mouth of Puget Sound subject to both currents and wave action.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.PhysicalEnvironment",
+        "Technology.Wave",
+        "Technology.Current"
+      ]
+    },
+    {
+      "text": "Testing will take place during daylight hours on no more than three occasions between June 2014 and June 2015. Each test will be no more than eight hours in duration. Each test will involve a single deployment and recovery of the docking station and multiple deployments and recoveries of the launch platform, ROV, and AMP.",
+      "tags": [
+        "Phase.2Construction",
+        "Management.Monitoring",
+        "Receptor.Habitat.Intertidal"
+      ]
+    },
+    {
+      "text": "During test operations, the surface vessel will observe marine mammal Best Management Practices recommended by NOAA\u2019s National Marine Fisheries Service (Annex 1).",
+      "tags": [
+        "Management.Mitigation",
+        "Receptor.MarineMammals"
+      ]
+    },
+    {
+      "text": "A number of ESA-listed marine species occur within each Project area. The following threatened or endangered species are known to be present in Lake Washington and ship canal adjacent to the University of Washington dock: * Chinook salmon (NMFS 2005a, SPU and USACE 2008), * Steelhead (NMFS 2007, SPU and USACE 2008), and * Bull trout (USFWS 2004, SPU and USACE 2008).",
+      "tags": [
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Receptor.Habitat.Benthos"
+      ]
+    },
+    {
+      "text": "The following threatened or endangered species are known to be present in Admiralty Inlet (HDR 2009): * Marbled Murrelet (USFWS 1997) * Chinook salmon (Good et al. 2005, NMFS 2005a), * Chum salmon (NMFS 2005a, Brewer et al. 2005), * Steelhead (Good et al. 2005, NMFS 2007), * Bull trout (USFWS 1999, USFWS 2004), * Green sturgeon (BRT 2005, NMFS 2006a), * Bocaccio (Palsson et al. 2009, NMFS 2010a), * Canary rockfish (Palsson et al. 2009, NMFS 2010a), * Yelloweye rockfish (Palsson et al. 2009, NMFS 2010a), * Pacific eulachon (NMFS 2010b), * Southern Resident killer whale (NMFS 2008a), * Humpback whale (NMFS 1991, NMFS 2005c).",
+      "tags": [
+        "Receptor.Birds.Seabirds",
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans"
+      ]
+    },
+    {
+      "text": "Of these threatened and endangered species, Admiralty Inlet is included in the critical habitat for Chinook salmon and chum salmon (to a depth of 30 m, NMFS 2005b), and Southern Resident killer whales (NMFS 2006b). Lake Washington and the ship canal adjacent to the University of Washington dock are designated as critical habitat for Chinook salmon (NOAA 2005b) and bull trout (USFWS 2010).",
+      "tags": [
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.Habitat.Benthos"
+      ]
+    },
+    {
+      "text": "Lake Washington and the ship canal adjacent to the University of Washington dock are fresh-water, urbanized waterways located within the Seattle metropolitan area. Human activities include heavy industry, construction associated with replacement for the Evergreen Point floating bridge, and recreational boating and fishing.",
+      "tags": [
+        "Receptor.HumanDimensions",
+        "Receptor.HumanDimensions.Fisheries",
+        "Receptor.HumanDimensions.RecreationTourism",
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.WaterQuality",
+        "Stressor.HabitatChange",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "Admiralty Inlet is a relatively narrow constriction at the mouth of Puget Sound. The ambient noise environment is dominated by vessel traffic at frequencies less than 1 kHz and sediment generated noise at frequencies greater than 1 kHz during periods of strong currents. Admiralty Inlet is closed to commercial fishing and this closure is observed by native tribes with Usual & Accustomed treaty rights.",
+      "tags": [
+        "Receptor.HumanDimensions",
+        "Receptor.HumanDimensions.Fisheries",
+        "Receptor.HumanDimensions.LegalPolicy",
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.WaterQuality",
+        "Receptor.PhysicalEnvironment.SedimentTransport",
+        "Stressor.Noise",
+        "Stressor.Noise.Underwater"
+      ]
+    },
+    {
+      "text": "In the Project area associated with deep water testing, the water depth ranges from 50 to 60 m and the seabed is predominantly scoured cobble and gravel, colonized by barnacles, sponges, anemones, and starfish.",
+      "tags": [
+        "Receptor.Benthos",
+        "Receptor.Invertebrates",
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.SedimentTransport",
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "In southern Admiralty Inlet, the channel is also approximately 5 km wide, but the water depth exceeds 100 m in the center of the channel. To the east of Marrowstone Island, were shallow water testing would take place, the water depth ranges from 15-25 m. The seabed is predominantly cobbles, gravel, and shell hash, interspersed with sand.",
+      "tags": [
+        "Receptor.Benthos",
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.SedimentTransport",
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "The effects of DOE\u2019s proposed Action and are discussed in the same order as presented in Section 2.",
+      "tags": [
+        "Receptor.HumanDimensions",
+        "Receptor.HumanDimensions.EnvironmentalImpactAssessment",
+        "Management.Mitigation",
+        "Management.Monitoring",
+        "Phase.1SiteCharacterizationandAssessment"
+      ]
+    },
+    {
+      "text": "Environmental stresses associated with testing of the AMP in a benign environment include: * The disturbance of the lake bottom where the docking station is set down (less than 1 m2 of disturbed area on each of up to six occasions), * The presence of a research vessel in Lake Washington (up to 48 hours in total on six occasions), and * The presence of the AMP and ROV deployment system in the water column of Lake Washington (up to 48 hours in total on six occasions) or alongside the University of Washington dock adjacent to the ship canal (up to 30 hours in total on five occasions).",
+      "tags": [
+        "Phase.2Construction",
+        "Receptor.Benthos",
+        "Receptor.PhysicalEnvironment.SedimentTransport",
+        "Stressor.HabitatChange"
+      ]
+    },
+    {
+      "text": "The disturbance of the lake bottom associated with setting down the docking station will be minimal, restricted to less than one square meter of disturbed area where the ballasted frame makes contact. This will result in a short-term, localized increase in turbidity that is unlikely to have an effect on ESA-listed species.",
+      "tags": [
+        "Phase.2Construction",
+        "Receptor.Benthos",
+        "Receptor.PhysicalEnvironment.SedimentTransport",
+        "Management.Mitigation"
+      ]
+    },
+    {
+      "text": "The deployment and recovery of the AMP is an amalgam of operations associated with launching and recovering an ROV and deploying and recovering a small instrumentation package. The AMP supports a number of passive and active acoustic instruments, as well as a strobe-illuminated camera system, but these will not be powered on during testing and the AMP presence is unlikely to have an effect on ESA-listed species.",
+      "tags": [
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.Benthos",
+        "Management.Mitigation"
+      ]
+    },
+    {
+      "text": "The ROV is an inspection-class system equipped with cameras and artificial lighting. This model of ROV is similar to those used for benthic habitat and fisheries surveys by state and federal resource agencies (e.g., Packunski et al. 2008) and is unlikely to have an effect on ESA-listed species.",
+      "tags": [
+        "Phase.2Construction",
+        "Receptor.Benthos",
+        "Receptor.Fish",
+        "Management.Mitigation"
+      ]
+    },
+    {
+      "text": "The tension in these umbilicals and short-term nature of the deployment minimizes the risk of marine life becoming entangled (or a net becoming entangled around an umbilical). Consequently, neither the umbilicals, nor the launch platform, are likely to have an effect on ESA-listed species.",
+      "tags": [
+        "Phase.2Construction",
+        "Receptor.Benthos",
+        "Receptor.Fish",
+        "Consequence.EntanglementEntrapment",
+        "Management.Mitigation"
+      ]
+    },
+    {
+      "text": "There is extensive recreational boating traffic on Lake Washington. For example, when the sockeye salmon fishery is open, there can be up to two thousand small boats on the water in a morning. Additionally, larger vessels transit the lake, such as NOAA vessel mobilizing from facilities at Sand Point, on the western shore of Lake Washington. The presence of one sixty-foot research vessel is unlikely to have any incremental effect on ESA-listed species.",
+      "tags": [
+        "Phase.2Construction",
+        "Receptor.HumanDimensions",
+        "Receptor.HumanDimensions.Fisheries",
+        "Receptor.HumanDimensions.RecreationTourism",
+        "Management.Mitigation"
+      ]
+    },
+    {
+      "text": "When the docking station is set down, its weight will likely displace cobbles and crush those sessile invertebrates that are in direct contact with the frame. This includes a number of non-ESA listed barnacles, starfish, sponges, and anemones. Recolonization of disturbed areas (< 3 m2 in total) would likely occur within twelve months.",
+      "tags": [
+        "Consequence.CommunityChange",
+        "Consequence.Displacement",
+        "Receptor.Invertebrates",
+        "Receptor.Habitat.Benthos",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "The limited extent of the disturbance in a homogeneous benthic habitat suggests that these disturbances are unlikely to have an effect on ESA-listed species.",
+      "tags": [
+        "Consequence.CommunityChange",
+        "Receptor.Benthos",
+        "Receptor.Habitat.Benthos",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "Because of the extensive commercial vessel traffic in Admiralty Inlet (quantified by Bassett et al. 2012), the presence of one sixty-foot research vessel is unlikely to have any incremental effect on ESA-listed species.",
+      "tags": [
+        "Consequence.BehavioralChange",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "The University of Washington Northwest National Marine Renewable Energy Center, would adhere to the attached Best Management Practices (Annex 1) during all vessel operations, including the transits to and from the survey areas in order to avoid or reduce impacts on protected marine species and their habitats, particularly as they pertain to protected species awareness and avoidance.",
+      "tags": [
+        "Management.Compliance",
+        "Management.Mitigation",
+        "Management.Monitoring",
+        "Receptor.MarineMammals",
+        "Receptor.Fish",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "In conclusion, we have determined that DOE's proposed Action to fund the proposed Project is unlikely to adversely affect any ESA-listed species occurring within the Project area or their associated critical habitat.",
+      "tags": [
+        "Receptor.HumanDimensions.EnvironmentalImpactAssessment",
+        "Receptor.Habitat.Benthos",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "A vessel noise budget for Admiralty Inlet, Puget Sound, Washington (USA)",
+      "tags": [
+        "Receptor.HumanDimensions.Navigation",
+        "Stressor.Noise",
+        "Stressor.Noise.Airborne",
+        "Stressor.Noise.Underwater",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "Sediment generated noise and bed stress in a tidal channel",
+      "tags": [
+        "Receptor.PhysicalEnvironment.SedimentTransport",
+        "Stressor.Noise",
+        "Stressor.Noise.Underwater",
+        "Phase.3OperationsandMaintenance"
+      ]
+    },
+    {
+      "text": "Green sturgeon (Acipenser medirostris) status review update. Prepared for the National Marine Fisheries Service.",
+      "tags": [
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Management.Monitoring",
+        "Phase.1SiteCharacterizationandAssessment"
+      ]
+    },
+    {
+      "text": "Hood Canal & Eastern Strait of Juan de Fuca: Summer Chum Salmon Recovery Plan.",
+      "tags": [
+        "Receptor.Fish",
+        "Receptor.Fish.PelagicFish",
+        "Management.Mitigation",
+        "Phase.1SiteCharacterizationandAssessment"
+      ]
+    },
+    {
+      "text": "Updated status of federally listed ESUs of west coast salmon and steelhead.",
+      "tags": [
+        "Receptor.Fish",
+        "Receptor.Fish.PelagicFish",
+        "Management.Monitoring",
+        "Phase.1SiteCharacterizationandAssessment"
+      ]
+    },
+    {
+      "text": "Habitat characterization of the SnoPUD turbine site \u2013 Admiralty Head, Washington State",
+      "tags": [
+        "Receptor.Habitat.Benthos",
+        "Receptor.Habitat.Intertidal",
+        "Phase.1SiteCharacterizationandAssessment",
+        "Technology.Wave",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Recovery Plan for the Humpback Whale (Megaptera novaeangliae)",
+      "tags": [
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Management.Mitigation",
+        "Phase.1SiteCharacterizationandAssessment"
+      ]
+    },
+    {
+      "text": "Best Management Practices (BMPs) for General In-Water Work Including Boat and Diver Operations The following BMPSs are intended to reduce potential adverse effects on protected marine species. These BMPs are in no way intended to supersede or replace measures required by any other agency including, but not limited to the ACOE, USFWS, USEPA, or NMFS. Compliance with these BMPs is secondary to safety concerns.",
+      "tags": [
+        "Management.Compliance",
+        "Management.Mitigation",
+        "Management.Monitoring",
+        "Receptor.MarineMammals",
+        "Receptor.Fish",
+        "Receptor.Birds",
+        "Receptor.Invertebrates"
+      ]
+    },
+    {
+      "text": "Constant vigilance shall be kept for the presence of ESA-listed marine species during all aspects of the proposed action, particularly in-water activities such as boat operations, diving, and deployment of anchors and mooring lines.",
+      "tags": [
+        "Management.Monitoring",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.MarineMammals",
+        "Receptor.Fish",
+        "Receptor.Turtles"
+      ]
+    },
+    {
+      "text": "The project manager shall designate an appropriate number of competent observers to survey the marine areas adjacent to the proposed action for ESA-listed marine species.",
+      "tags": [
+        "Management.Monitoring",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.MarineMammals",
+        "Receptor.Fish",
+        "Receptor.Turtles"
+      ]
+    },
+    {
+      "text": "All in-water work shall be postponed or halted when ESA-listed marine species are within 50 yards of the proposed work, and shall only begin/resume after the animals have voluntarily departed the area.",
+      "tags": [
+        "Management.Mitigation",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.MarineMammals",
+        "Receptor.Fish",
+        "Receptor.Turtles"
+      ]
+    },
+    {
+      "text": "When piloting vessels, vessel operators shall alter course to remain at least 100 yards from whales, and at least 50 yards from other marine mammals and sea turtles.",
+      "tags": [
+        "Management.Mitigation",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.Turtles"
+      ]
+    },
+    {
+      "text": "Reduce vessel speed to 10 knots or less when piloting vessels at or within the ranges described above from marine mammals and sea turtles.",
+      "tags": [
+        "Management.Mitigation",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.MarineMammals",
+        "Receptor.Turtles"
+      ]
+    },
+    {
+      "text": "Marine mammals and sea turtles should not be encircled or trapped between multiple vessels or between vessels and the shore.",
+      "tags": [
+        "Management.Mitigation",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.MarineMammals",
+        "Receptor.Turtles"
+      ]
+    },
+    {
+      "text": "No contamination of the marine environment should result from project-related activities. A contingency plan to control toxic materials is required. Appropriate materials to contain and clean potential spills will be stored at the work site, and be readily available.",
+      "tags": [
+        "Management.Mitigation",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.PhysicalEnvironment.WaterQuality"
+      ]
+    }
+  ],
+  "SnoPUD Biological Eval_6.2011v3": [
+    {
+      "text": "The purpose of this Biological Evaluation (BE) is to address the effect of the Tidal Energy Monitoring Capabilities Development Project on ESA-listed species, listed as endangered or threatened under the Endangered Species Act (ESA), or their designated critical habitat.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.Birds",
+        "Receptor.Birds.Seabirds",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.MarineMammals.Pinnipeds",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "The project involves deployment and use of testing instrumentation to monitor and evaluate a proposed tidal energy project in Puget Sound. Testing activities would be carried out in three locations: Lake Union, Lake Washington, and Admiralty Inlet, as shown in Figure 1.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.2Construction",
+        "Management.Monitoring",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Because work would occur adjacent to, and in, the ocean, it has the potential to impact the following ESA-listed marine species that are known to occur in the area: marbled murrelet, Chinook salmon, chum salmon, steelhead, bull trout, green sturgeon, bocaccio, canary rockfish, yellow rockfish, pacific eulachon, humpback whales, Southern Resident killer whales, Stellar sea lions and designated critical habitat for several of these ESA-listed species.",
+      "tags": [
+        "Consequence.CommunityChange",
+        "Receptor.Birds.Seabirds",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.MarineMammals.Pinnipeds",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Early coordination and pre-consultation with NMFS was conducted during a series of meetings and phone conversations including: * An email exchange with NMFS regional and headquarters staff describing the plan for acoustic effects testing in February 2011. Regional and headquarters staff concurred that the sound propagation test would not require an Incidental Harassment Authorization because broadband source levels and received levels would be below 120 dB.",
+      "tags": [
+        "Management.Compliance",
+        "Management.Monitoring",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.MarineMammals.Pinnipeds",
+        "Stressor.Noise.Underwater",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "A working group consisting of technical experts drawn from state and regulatory agencies, the University of Washington, consultancies, and SnoPUD discussed the plan for development and testing of the near-field monitoring system described in the proposed Project.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.HumanDimensions.StakeholderEngagement"
+      ]
+    },
+    {
+      "text": "This BE addresses DOE's proposed Action to provide federal funding to the proposed Project in compliance with Section 7(c) of the ESA of 1973, as amended.",
+      "tags": [
+        "Management.Compliance",
+        "Receptor.HumanDimensions.LegalPolicy"
+      ]
+    },
+    {
+      "text": "Objective 1: Carry out a sound propagation test using a tonal source (10 kHz, broadband source level \u2264 120 dB re 1 \u03bcPa @ 1 m) to evaluate the directionality of sound transmission for the 1-10 kHz frequency bands in the vicinity of a proposed tidal energy project in Admiralty Inlet, Puget Sound.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Stressor.Noise",
+        "Stressor.Noise.Underwater",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Objective 2: Develop and test a near-turbine monitoring system to observe species assemblages in the vicinity of hydrokinetic turbines and the frequency with which aquatic species pass through a turbine rotor's swept area, placing them at elevated risk to blade strike.",
+      "tags": [
+        "Management.Monitoring",
+        "Consequence.Collision",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Technology.Current"
+      ]
+    },
+    {
+      "text": "Objective 3: Test passive acoustic instrumentation for monitoring marine mammal presence/absence in the vicinity of a future proposed tidal energy project in Admiralty Inlet.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.MarineMammals.Pinnipeds",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "The capabilities developed under this Project would allow future tidal energy projects proposed by SnoPUD to monitor and mitigate post-installation environmental effects. These capabilities are also extendable to other tidal and wave energy projects that may require environmental monitoring and mitigation, as well as generic monitoring of aquatic species in contexts beyond marine energy.",
+      "tags": [
+        "Management.Monitoring",
+        "Management.Mitigation",
+        "Technology.Current.Tidal",
+        "Technology.Wave"
+      ]
+    },
+    {
+      "text": "One of the key assumptions made for the pre-installation estimate of noise for a proposed tidal energy project in Admiralty Inlet (Polagye et al. 2011) is that sound would propagate uniformly in all radial directions (i.e., transmission loss depends only on distance from the source, not on heading). The goal of this project is to verify this assumption.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Technology.Current.Tidal",
+        "Stressor.Noise.Underwater"
+      ]
+    },
+    {
+      "text": "Sound would be recorded by three types of hydrophone platforms: cabled hydrophones connected to a drifting surface vessel, autonomous hydrophones on drifting buoys, and an autonomous hydrophone deployed on the seabed.",
+      "tags": [
+        "Management.Monitoring",
+        "Stressor.Noise.Underwater",
+        "Receptor.PhysicalEnvironment.WaterQuality"
+      ]
+    },
+    {
+      "text": "The spatial extent of the surveys would consist of a circle 2 km in radius \u2013 encompassing the pre-installation estimate for the acoustic footprint for a pair of OpenHydro turbines at maximum power output (estimated to be 1.3 km \u2013 Polagye et al. 2011).",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Sound propagation in the survey area would be assessed from the collected data on the basis of radial wedges, as shown conceptually in Figure 2. Wedges are defined by common sound propagation properties (e.g., transmission loss coefficient).",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Stressor.Noise.Underwater"
+      ]
+    },
+    {
+      "text": "Sound propagation tests would occur on two separate days, separated by 1-3 days. On the first day, the source would be deployed at the center of the circle shown in Figure 2 and monitoring efforts would focus on the large wedge to the southeast.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Management.Monitoring"
+      ]
+    },
+    {
+      "text": "If Southern Resident killer whales are reported to be present in Admiralty Inlet (as informed by local observed networks), testing would be discontinued until the whales transit 5 km beyond the Project area.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.MarineMammals.Cetaceans",
+        "Management.Mitigation"
+      ]
+    },
+    {
+      "text": "The resulting information would serve to interpret acoustic measurements obtained after the installation of the turbines (not part of this proposed Project). Specifically, while the lower frequencies generated by the turbine would almost certainly result in complex, three-dimensional variations in received levels, noise would also be generated in the 1-3 kHz range. It is reasonable to expect that the conclusions about acoustic transmission at 10 kHz may be extended to sounds in the 1-3 kHz range. If the radial variations in received levels of turbine noise in these bands are well-aligned with the results from the source test, then this would suggest that a turbine acts as an omni-directional source. To the extent different patterns emerge, these may stem from source directivity. Accurate assumptions regarding source directivity and propagation directivity are essential for making accurate pre-installation estimates of received levels of turbine noise for other projects.",
+      "tags": [
+        "Consequence.CommunityChange",
+        "Phase.3OperationsandMaintenance",
+        "Receptor.HumanDimensions",
+        "Receptor.PhysicalEnvironment",
+        "Stressor.Noise",
+        "Technology.OffshoreWind",
+        "Technology.OffshoreWind.Fixed"
+      ]
+    },
+    {
+      "text": "The Project area for the sound propagation test is northern Admiralty Inlet, at the location shown in Figure 3.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.PhysicalEnvironment"
+      ]
+    },
+    {
+      "text": "The near-turbine turbine monitoring system instrumentation would consist of: * Two high resolution machine vision cameras in waterproof housings, * Four full-spectrum strobe lights in waterproof housings (Excelitas MVS 5002), * BlueView acoustic camera (P900-2250-45, 2.25 MHz operating frequency); and * A pressure housing with power converter (AC/DC) and communications system (e.g., Ethernet to fiber optic converter). These instruments would be secured to a support frame constructed from marine grade aluminum, as shown in Figure 4, and interconnected with commercially available marine cabling rated for the required power and data transfer rates.",
+      "tags": [
+        "Management.Mitigation",
+        "Management.Monitoring",
+        "Phase.3OperationsandMaintenance",
+        "Technology.OffshoreWind",
+        "Technology.OffshoreWind.Fixed"
+      ]
+    },
+    {
+      "text": "The development and testing of the near-turbine monitoring system would proceed through four phases. * Phase 1: Dockside testing to evaluate the functionality of the system and calibrate the stereo cameras * Phase 2: Fresh water testing to evaluate system performance in a low-light environment and verify the practicality of deploying the test mooring. * Phase 3: Salt water testing in an area with weak tidal currents to evaluate system performance in a low-light environment with biological detritus slowly drifting around the camera. * Phase 4: Salt water testing in an area with strong tidal currents to evaluate system performance in a low-light environment with biological detritus being rapidly advected past the camera by the currents.",
+      "tags": [
+        "Management.Mitigation",
+        "Management.Monitoring",
+        "Phase.1SiteCharacterizationandAssessment",
+        "Phase.2Construction",
+        "Phase.3OperationsandMaintenance",
+        "Phase.4Decommissioning",
+        "Technology.OffshoreWind",
+        "Technology.OffshoreWind.Fixed"
+      ]
+    },
+    {
+      "text": "For Phase 1, the Project area is the fresh water alongside the main University of Washington Applied Physics Laboratory boat dock. This facility is located in Seattle, Washington, directly beneath the University Bridge on the ship canal connecting Lake Union to Lake Washington.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.WaterQuality"
+      ]
+    },
+    {
+      "text": "Over the course of the project, from July 2011 \u2013 June 2012, the camera system is likely to be operated for no more than 40 hours, depending on the number of iterations required to properly calibrate the stereo cameras and verify instrument communications. Testing would occur during daytime and nighttime hours and the system would operate continuously for periods of up to 4 hours.",
+      "tags": [
+        "Management.Monitoring",
+        "Phase.1SiteCharacterizationandAssessment"
+      ]
+    },
+    {
+      "text": "Phase 2: Fresh Water Testing. For Phase 2, the Project area is Lake Washington, a fresh water body to the east of Seattle, Washington, at the location shown in Figure 6 (N47\u00b0 39.5', W122\u00b0 15'). The system would be deployed as shown in Figure 7 with the camera frame and test frame lowered from a research vessel (R/V Jack Robertson) to a depth of 50-60 m.",
+      "tags": [
+        "Phase.2Construction",
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.WaterQuality"
+      ]
+    },
+    {
+      "text": "Testing would take place for up to 48 hours over a four day period in July and August 2011[1] and occur during both daytime and nighttime hours. During tests, the system would operate continuously for up to 8 hours at a time.",
+      "tags": [
+        "Management.Monitoring",
+        "Phase.2Construction"
+      ]
+    },
+    {
+      "text": "Phase 3: Salt Water Testing in Low Tidal Currents. For Phase 3, the Project area is Admiralty Inlet, a body of salt water at the mouth of Puget Sound.",
+      "tags": [
+        "Phase.3OperationsandMaintenance",
+        "Receptor.PhysicalEnvironment",
+        "Receptor.PhysicalEnvironment.WaterQuality"
+      ]
+    },
+    {
+      "text": "During testing, instrumentation and targets would be deployed in a similar manner to those during Phase 2 activities with the same types of targets. A minimum clearance of 5 m would be maintained between the test frame and seabed. Testing would take place for up to 18 hours over two days in August or November 2011[2], with periods of up to four hours of continuous operation of the stereo camera/strobe system and acoustic camera. Testing would occur only during daytime hours.",
+      "tags": [
+        "Phase.2Construction",
+        "Technology.Current",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "For Phase 4, the Project area is also Admiralty Inlet, as shown in Figure 8. Phase 4 testing would take place during a period of stronger currents. Instrumentation and targets would be deployed from the same mooring as previous phases. Testing would take place for up to 6 hours over two days in November 2011, December 2011, or January 2012[3], with periods of up to four hours of continuous operation of the stereo camera/strobe system and acoustic camera. Testing would occur only during daytime hours.",
+      "tags": [
+        "Phase.4Decommissioning",
+        "Technology.Current",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Two types of passive acoustic monitoring tools would be tested under this proposed Project: 1) click detectors and 2) broadband hydrophones. Click detectors are passive hydrophones that continually monitor ambient noise and, through software algorithms, identify potential click trains from echolocating cetaceans.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.MarineMammals.Cetaceans",
+        "Stressor.Noise.Underwater"
+      ]
+    },
+    {
+      "text": "Unlike click detectors, broadband hydrophones continually monitor ambient noise and either store this data internally or stream it back to a data logger by a cable. The proposed Project would involve testing a broadband hydrophone that has not previously been used by NNMREC.",
+      "tags": [
+        "Management.Monitoring",
+        "Phase.1SiteCharacterizationandAssessment",
+        "Stressor.Noise",
+        "Stressor.Noise.Underwater"
+      ]
+    },
+    {
+      "text": "Tests would be conducted dockside from Port Townsend, Washington and from a drifting research vessel in Admiralty Inlet. Data would be collected when vessels are present in Admiralty Inlet and when they are not and the acoustic spectra compared to previous hydrophone measurements.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.PhysicalEnvironment.WaterQuality",
+        "Stressor.Noise",
+        "Stressor.Noise.Underwater"
+      ]
+    },
+    {
+      "text": "A number of ESA-listed marine species occur within each Project area. The following threatened or endangered species are known to be present in Admiralty Inlet...",
+      "tags": [
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.MarineMammals.Pinnipeds",
+        "Receptor.Fish",
+        "Receptor.Birds",
+        "Receptor.Birds.Seabirds"
+      ]
+    },
+    {
+      "text": "The following threatened or endangered species are known to be present in Lake Washington and the ship canal adjacent to the University of Washington dock...",
+      "tags": [
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Receptor.Fish.PelagicFish"
+      ]
+    },
+    {
+      "text": "Of these threatened and endangered species, Admiralty Inlet is included in the critical habitat for Chinook salmon and chum salmon (to a depth of 30 m, NMFS 2005b), and Southern Resident killer whales (NMFS 2006b).",
+      "tags": [
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Receptor.Fish.PelagicFish",
+        "Receptor.Habitat.Benthos"
+      ]
+    },
+    {
+      "text": "Lake Washington and the ship canal adjacent to the University of Washington dock are designated as critical habitat for Chinook salmon (NOAA 2005b) and bull trout (USFWS 2010).",
+      "tags": [
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Receptor.Fish.PelagicFish",
+        "Receptor.Habitat.Benthos"
+      ]
+    },
+    {
+      "text": "A short discussion of those species characteristics that influence the probability of interactions between these species, their critical habit, and the proposed Project is included in Table 1. This information is summarized from the Draft License Application submitted to the Federal Energy Regulatory Commission by SnoPUD in association with a proposed tidal hydrokinetic energy project in Admiralty Inlet (HDR 2009). Some of these characteristics increase the likelihood of interaction with the proposed Project, while others decrease the likelihood.",
+      "tags": [
+        "Phase.1SiteCharacterizationandAssessment",
+        "Receptor.Fish",
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Because the near-field monitoring system would be deployed to a depth of 40-60 m during fresh and salt water testing, this would be beyond the depth utilized by most juveniles.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.Fish",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Some fresh and salt water testing of the near-field monitoring system would occur during a period of high relative abundance of juvenile Chinook Salmon.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Because the near-field monitoring system would be deployed to a depth of 40-60 m during fresh and salt water testing, this would occur beyond the depth normally utilized by this species.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.Fish",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Some fresh and salt water testing of the near-field monitoring system would occur during a period of high relative abundance of adult chum salmon.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.Fish",
+        "Receptor.Fish.DemersalFish",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Juvenile steelhead are unlikely to encounter any aspect of the project activities.",
+      "tags": [
+        "Consequence.Avoidance",
+        "Receptor.Fish",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Fresh and salt water test of the near-field monitoring system would not occur in bull trout critical habitat.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.Fish",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "For the salt water test of the near-field monitoring system, the package would be deployed on a flat, cobbled seabed unsuitable for rockfishes.",
+      "tags": [
+        "Management.Monitoring",
+        "Receptor.Fish",
+        "Technology.Current.Tidal"
+      ]
+    },
+    {
+      "text": "Predominantly occur in coastal waters and, on average, humpbacks are only sighted in Admiralty Inlet seven times each year. Green sturgeon are generally more coastal.",
+      "tags": [
+        "Receptor.MarineMammals",
+        "Receptor.MarineMammals.Cetaceans",
+        "Receptor.Fish",
+        "Technology.Current.Tidal"
+      ]
+    }
+  ]
+}
