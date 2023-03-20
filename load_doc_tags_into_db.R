@@ -36,4 +36,4 @@ d_tags <- d |>
 # dbExecute(con, "DELETE FROM ba_doc_excerpt_tags")
 # TODO: rowid SERIAL to auto increment in db
 dbAppendTable(con, "ba_doc_excerpt_tags", d_tags)
-tbl(con, "ba_doc_excerpt_tags")
+# tbl(con, "ba_doc_excerpt_tags")
