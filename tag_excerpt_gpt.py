@@ -1,9 +1,9 @@
 # read input argument of an excerpt and return the tags
 # 
-#   python tag_excerpt_gpt.py "{excerpt}" "{mdl_version}"
+#   python tag_excerpt_gpt.py "{excerpt_txt}" "{mdl_version}"
 #
 # where:
-#   excerpt:     text to tag, should be wrapped in double quotes and have them replaced internally with single quotes
+#   excerpt_txt: path to file with text to tag, should be wrapped in double quotes and have them replaced internally with single quotes
 #   mdl_version: so far either "3" or "4"
 #
 # try in Terminal:
@@ -36,7 +36,10 @@ import re
 import tiktoken
 import json
 
-excerpt = sys.argv[1]
+excerpt_txt = sys.argv[1]
+with open(excerpt_txt, 'r') as f:
+  excerpt = f.read().strip('\n')
+
 if len(sys.argv) > 2:
   mdl_version = sys.argv[2]
 else:
