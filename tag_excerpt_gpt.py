@@ -12,6 +12,7 @@
 # install Google Python modules as Shiny on rstudio.marineenergy.app
 # sudo su - shiny
 # pip install --user --upgrade \
+#   pandas \
 #   python-dotenv \
 #   google-auth \
 #   google-api-python-client \
@@ -35,6 +36,7 @@ from googleapiclient.http import MediaIoBaseDownload
 import re
 import tiktoken
 import json
+import pandas as pd
 
 excerpt_txt = sys.argv[1]
 with open(excerpt_txt, 'r') as f:
@@ -59,13 +61,10 @@ else:
 
 # paths and variables
 script_dir = Path( __file__ ).parent.absolute()
-tags_txt = f'{script_dir}/data/tags.txt'
-# mdl = {
-#   'id'             : 'gpt-3.5-turbo',
-#   'encoding'       : 'gpt-3.5-turbo',
-#   'temperature'    : 0,
-#   'max_tokens'     :  4097,
-#   'max_chunk_nchar': round(4097/3) }
+# script_dir = "/share/github/ba"
+tags_csv = f'{script_dir}/../apps_dev/data/tags.csv'
+
+# GPT models
 mdls = {
   '3.5': {
     'id'             : 'gpt-3.5-turbo',
@@ -81,9 +80,10 @@ mdls = {
     'max_chunk_nchar': round(8192/3) } }
 mdl = mdls[mdl_version]
 
-# read tags from tags_txt
-with open(tags_txt, 'r') as f:
-  tags = f.read().strip('\n')
+# read tags from tags_csv
+df = pd.read_csv(tags_csv, usecols = ['tag_sql'])
+tags = df.to_string(header=False, index=False)
+# print(tags)
 
 # load OPENAI_API_KEY from .env
 load_dotenv()
