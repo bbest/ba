@@ -73,11 +73,11 @@ mdls = {
     'max_tokens'     :  4097,
     'max_chunk_nchar': round(4097/3) },
   '4': {
-    'id'             : 'gpt-4',
-    'encoding'       : 'gpt-3.5-turbo',  # ideally 'gpt-4', but not available yet
+    'id'             : 'gpt-4o',
+    'encoding'       : 'gpt-4',
     'temperature'    : 0,
-    'max_tokens'     : 8192,
-    'max_chunk_nchar': round(8192/3) } }
+    'max_tokens'     : 4097,
+    'max_chunk_nchar': round(4097/3) } }
 mdl = mdls[mdl_version]
 
 # read tags from tags_csv
